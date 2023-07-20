@@ -40,8 +40,6 @@
 <hr />
 
 ## :computer: Ablation Study on Micro Design
-<center class="half">
-    <img src="images/overall.png" width="550"/><img src="images/ab_table.png" width="550"/>
-</center>
+<img src="images\Ab.png" style="zoom:50%;" />
 
 <hr />
