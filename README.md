@@ -15,27 +15,21 @@
 
 <hr />
 
-## :sparkles: Results
-<details>
-	<summary><strong>Quantitative Comparison with SOTA</strong> (click to expand) </summary>
-	<p><img src = "images/Quan.png" width=100% height=100%></p>
-</details>
-<details>
-	<summary><strong>Qualitative Comparison with SOTA</strong> (click to expand) </summary>
-        <p><img src = "images/Qualitative.png" width=100% height=100%></p>
-</details>
-<details>
-	<summary><strong>LAM visualization analysis</strong> (click to expand) </summary>
-	<p><img src = "images/LAM.png" width=100% height=100%></p>
-	Results of Local Attribution Maps. A more widely distributed red area and higher DI represent a larger range pixels utilization. The heat maps exhibit the area of interest for different SR networks. The red regions are noticed by almost both EDSR, SwinIR, and CARN while the blue areas represent the additional LAM interest areas of the proposed TSCN. (TSCN has a higher diffusion index.)
-</details>
-<details>
-	<summary><strong>Industrial Application</strong> (click to expand) </summary>
-	<p><img src = "images/Industrial.png" width=100% height=100%></p>
-	Industrial application of SISR: PCB images and license plate image super resolution for the electronics and autonomous driving industries.
-	<p><img src = "images/seg-3.png" width=100% height=100%></p>
-	Industrial Application of SISR: contributing to autonomous driving scenario parsing.
-</details>
+## :sparkles: Quantitative Comparison with SOTA
+<img src = "images/Quan.png" width=80% height=80%>
+
+## :sparkles: Qualitative Comparison with SOTA
+<img src = "images/Qualitative.png" width=80% height=80%>
+
+## :sparkles: LAM visualization analysis
+<img src = "images/LAM.png" width=80% height=80%>
+Results of Local Attribution Maps. A more widely distributed red area and higher DI represent a larger range pixels utilization. The heat maps exhibit the area of interest for different SR networks. The red regions are noticed by almost both EDSR, SwinIR, and CARN while the blue areas represent the additional LAM interest areas of the proposed TSCN. (TSCN has a higher diffusion index.)
+
+## :sparkles: Industrial Application
+<img src = "images/Industrial.png" width=80% height=80%>
+Industrial application of SISR: PCB images and license plate image super resolution for the electronics and autonomous driving industries.
+<img src = "images/seg-3.png" width=80% height=80%>
+Industrial Application of SISR: contributing to autonomous driving scenario parsing.
 
 <hr />
 
