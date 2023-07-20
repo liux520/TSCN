@@ -18,8 +18,7 @@
 ## :sparkles: Results
 <details>
 	<summary><strong>Quantitative Comparison with SOTA</strong> (click to expand) </summary>
-        <p><img src = "images/Quan.png" width=100% height=100%></p>
-	Quantitative comparison with SOTA methods on five popular benchmark datasets. Blue text indicates the best results. `Multi-Adds' is calculated with a 1280 $\times$ 720 HR image.
+	<p><img src = "images/Quan.png" width=100% height=100%></p>
 </details>
 <details>
 	<summary><strong>Qualitative Comparison with SOTA</strong> (click to expand) </summary>
@@ -37,12 +36,12 @@
 	<p><img src = "images/seg-3.png" width=100% height=100%></p>
 	Industrial Application of SISR: contributing to autonomous driving scenario parsing.
 </details>
+
 <hr />
 
 ## :computer: Ablation Study on Micro Design
 <center class="half">
-    <img src="images/overall.png" width="550"/>
-    <img src="images/ab_table.png" width="550"/>
+    <img src="images/overall.png" width="550"/><img src="images/ab_table.png" width="550"/>
 </center>
 
 <hr />
