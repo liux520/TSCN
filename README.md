@@ -17,13 +17,13 @@
 
 ## :sparkles: Results
 <details>
-	<summary><strong>Qualitative Comparison with SOTA</strong> (click to expand) </summary>
-        <p><img src = "images/Qualitative.png" width=100% height=100%></p>
-</details>
-<details>
 	<summary><strong>Quantitative Comparison with SOTA</strong> (click to expand) </summary>
         <p><img src = "images/Quantitative.png" width=100% height=100%></p>
 	Quantitative comparison with SOTA methods on five popular benchmark datasets. Blue text indicates the best results. `Multi-Adds' is calculated with a 1280 $\times$ 720 HR image.
+</details>
+<details>
+	<summary><strong>Qualitative Comparison with SOTA</strong> (click to expand) </summary>
+        <p><img src = "images/Qualitative.png" width=100% height=100%></p>
 </details>
 <details>
 	<summary><strong>LAM visualization analysis</strong> (click to expand) </summary>
