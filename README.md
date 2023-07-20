@@ -18,7 +18,7 @@
 ## :sparkles: Results
 <details>
 	<summary><strong>Quantitative Comparison with SOTA</strong> (click to expand) </summary>
-        <p><img src = "images/Quan.png" width=10% height=10%></p>
+        <p><img src = "images/Quan.png" width=100% height=100%></p>
 	Quantitative comparison with SOTA methods on five popular benchmark datasets. Blue text indicates the best results. `Multi-Adds' is calculated with a 1280 $\times$ 720 HR image.
 </details>
 <details>
