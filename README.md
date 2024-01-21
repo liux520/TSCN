@@ -58,17 +58,6 @@
   		</div>
 </details>
 
-<style>
-  .image-row {
-    display: flex;
-    flex-direction: row;
-  }
-  .image-col {
-    flex: 1;
-    padding-right: 5px;
-  }
-</style>
-
 <hr />
 
 ## :sparkles: Real Image Experiment
