@@ -25,35 +25,35 @@
     	<p><img src = "images/Qualitative.png" width=100% height=100%></p>
 		<div style="display: flex; flex-direction: row;">
     	<div style="flex: 1; padding-right: 5px;">
-      		<img src="images/set5_baby.gif" width="50%" height="50%">
+      		<img src="images/set5_baby.gif" width="25%" height="25%">
     	</div>
     	<div style="flex: 1; padding-right: 5px;">
-      		<img src="images/set5_butterfly.gif" width="50%" height="50%">
+      		<img src="images/set5_butterfly.gif" width="25%" height="25%">
     	</div>
     	<div style="flex: 1; padding-left: 5px;">
-      		<img src="images/set14_bridge.gif" width="50%" height="50%">
+      		<img src="images/set14_bridge.gif" width="25%" height="25%">
     	</div>
   		</div>
     	<div style="display: flex; flex-direction: row;">
     	<div style="flex: 1; padding-right: 5px;">
-      		<img src="images/set14_coastguard.gif" width="50%" height="50%">
+      		<img src="images/set14_coastguard.gif" width="25%" height="25%">
     	</div>
     	<div style="flex: 1; padding-right: 5px;">
-      		<img src="images/set14_lenna.gif" width="50%" height="50%">
+      		<img src="images/set14_lenna.gif" width="25%" height="25%">
     	</div>
     	<div style="flex: 1; padding-left: 5px;">
-      		<img src="images/set14_man.gif" width="50%" height="50%">
+      		<img src="images/set14_man.gif" width="25%" height="25%">
     	</div>
   		</div>
     	<div style="display: flex; flex-direction: row;">
     	<div style="flex: 1; padding-right: 5px;">
-      		<img src="images/set14_monarch.gif" width="50%" height="50%">
+      		<img src="images/set14_monarch.gif" width="25%" height="25%">
     	</div>
     	<div style="flex: 1; padding-right: 5px;">
-      		<img src="images/set14_pepper.gif" width="50%" height="50%">
+      		<img src="images/set14_pepper.gif" width="25%" height="25%">
     	</div>
         <div style="flex: 1; padding-left: 5px;">
-      		<img src="images/set14_pepper.gif" width="50%" height="50%">
+      		<img src="images/set14_pepper.gif" width="25%" height="25%">
     	</div>
   		</div>
 </details>
@@ -96,8 +96,9 @@
 ## :computer: Ablation Study on Micro Design
 
 <center class="half">
-    <img src="images/overall.png" width="500"/><img src="images/ab_table.png" width="500"/>
+    <img src="images/overall.png" width="250"/><img src="images/ab_table.png" width="250"/>
 </center>
+
 
 
 <hr />
