@@ -15,23 +15,6 @@
 
 <hr />
 
-<<<<<<< Updated upstream
-## :sparkles: Quantitative Comparison with SOTA
-<img src="images\Quan.png" style="zoom80%;" />
-
-## :sparkles: Qualitative Comparison with SOTA
-<img src="images\Qualitative.png" style="zoom:80%;" />
-
-## :sparkles: LAM visualization analysis
-<img src="images\LAM.png" style="zoom:80%;" />
-Results of Local Attribution Maps. A more widely distributed red area and higher DI represent a larger range pixels utilization. The heat maps exhibit the area of interest for different SR networks. The red regions are noticed by almost both EDSR, SwinIR, and CARN while the blue areas represent the additional LAM interest areas of the proposed TSCN. (TSCN has a higher diffusion index.)
-
-## :sparkles: Industrial Application
-<img src="images\Industrial.png" style="zoom:80%;" />
-Industrial application of SISR: PCB images and license plate image super resolution for the electronics and autonomous driving industries.
-<img src="images\seg-3.png" style="zoom:80%;" />
-Industrial Application of SISR: contributing to autonomous driving scenario parsing.
-=======
 ## :sparkles: Synthetic Image Experiment
 <details>
 	<summary><strong>Quantitative Comparison with SOTA</strong> (click to expand) </summary>
@@ -106,18 +89,13 @@ Industrial Application of SISR: contributing to autonomous driving scenario pars
 	<p><img src = "images/seg-3.png" width=100% height=100%></p>
 	Industrial Application of SISR: contributing to autonomous driving scenario parsing.
 </details>
->>>>>>> Stashed changes
 
 <hr /> 
 
 ## :computer: Ablation Study on Micro Design
-<<<<<<< Updated upstream
-<img src="images\Ab.png" style="zoom:50%;" />
-=======
 
 <center class="half">
     <img src="images/overall.png" width="550"/><img src="images/ab_table.png" width="550"/>
 </center>
->>>>>>> Stashed changes
 
 <hr />
