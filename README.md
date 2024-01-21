@@ -58,6 +58,16 @@
   		</div>
 </details>
 
+<style>
+  .image-row {
+    display: flex;
+    flex-direction: row;
+  }
+  .image-col {
+    flex: 1;
+    padding-right: 5px;
+  }
+</style>
 
 <hr />
 
@@ -95,10 +105,7 @@
 
 ## :computer: Ablation Study on Micro Design
 
-<center class="half">
-    <img src="images/overall.png" width="250"/><img src="images/ab_table.png" width="250"/>
-</center>
-
+<img src="images\Ab.png" style="zoom:50%;" />
 
 
 <hr />
