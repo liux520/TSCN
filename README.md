@@ -21,14 +21,14 @@
 
 > ### Qualitative Comparison with SOTA
 <img src="https://github.com/liux520/TSCN/blob/main/images/Qualitative.png" style="zoom:50%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/u100-084.png" style="zoom:100%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/u100-046.png" style="zoom:100%;" />
 <img src="https://github.com/liux520/TSCN/blob/main/images/u100-044.png" style="zoom:100%;" />
 <img src="https://github.com/liux520/TSCN/blob/main/images/u100-034.png" style="zoom:100%;" />
 <img src="https://github.com/liux520/TSCN/blob/main/images/u100-027.png" style="zoom:100%;" />
 <img src="https://github.com/liux520/TSCN/blob/main/images/u100-024.png" style="zoom:100%;" />
 <img src="https://github.com/liux520/TSCN/blob/main/images/u100-008.png" style="zoom:100%;" />
 <img src="https://github.com/liux520/TSCN/blob/main/images/u100-004.png" style="zoom:100%;" />
+<img src="https://github.com/liux520/TSCN/blob/main/images/u100-084.png" style="zoom:100%;" />
+<img src="https://github.com/liux520/TSCN/blob/main/images/u100-046.png" style="zoom:100%;" />
 <img src="https://github.com/liux520/TSCN/blob/main/images/set14-ppt3.png" style="zoom:100%;" />
 <img src="https://github.com/liux520/TSCN/blob/main/images/set14-baboon.png" style="zoom:100%;" />
 <img src="https://github.com/liux520/TSCN/blob/main/images/set14-comic.png" style="zoom:100%;" />
