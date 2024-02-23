@@ -16,10 +16,10 @@
 <hr />
 
 ## :sparkles: Synthetic Image Experiment
-### Quantitative Comparison with SOTA
+> ### Quantitative Comparison with SOTA
 <img src="https://github.com/liux520/TSCN/blob/main/images/Quan.png" style="zoom:50%;" />
 
-### Qualitative Comparison with SOTA
+> ### Qualitative Comparison with SOTA
 <img src="https://github.com/liux520/TSCN/blob/main/images/Qualitative.png" style="zoom:50%;" />
 <img src="https://github.com/liux520/TSCN/blob/main/images/set5_baby.gif" style="zoom:50%;" />
 <img src="https://github.com/liux520/TSCN/blob/main/images/set5_butterfly.gif" style="zoom:50%;" />
