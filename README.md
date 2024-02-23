@@ -33,41 +33,34 @@
 <hr />
 
 ## :sparkles: Real Image Experiment
-<details>
-	<summary><strong>Quantitative Comparison with SOTA</strong> (click to expand) </summary>
-	<p><img src = "https://github.com/liux520/TSCN/blob/main/images/realquan.png" width=100% height=100%></p>
-</details>
-<details>
-	<summary><strong>Qualitative Comparison with SOTA</strong> (click to expand) </summary>
-	<p><img src = "https://github.com/liux520/TSCN/blob/main/images/realsr-1.png" width=100% height=100%></p>
-	<p><img src = "https://github.com/liux520/TSCN/blob/main/images/realsr-2.png" width=100% height=100%></p>
-	<p><img src = "https://github.com/liux520/TSCN/blob/main/images/realsr-3.png" width=100% height=100%></p>
-	<p><img src = "https://github.com/liux520/TSCN/blob/main/images/realsr-4.png" width=100% height=100%></p>
-	<p><img src = "https://github.com/liux520/TSCN/blob/main/images/realsr-5.png" width=100% height=100%></p>
-</details>
+### Quantitative Comparison with SOTA
+<img src="https://github.com/liux520/TSCN/blob/main/images/realquan.png" style="zoom:50%;" />
+
+### Qualitative Comparison with SOTA
+<img src="https://github.com/liux520/TSCN/blob/main/images/realsr-1.png" style="zoom:100%;" />
+<img src="https://github.com/liux520/TSCN/blob/main/images/realsr-2.png" style="zoom:100%;" />
+<img src="https://github.com/liux520/TSCN/blob/main/images/realsr-3.png" style="zoom:100%;" />
+<img src="https://github.com/liux520/TSCN/blob/main/images/realsr-4.png" style="zoom:100%;" />
+<img src="https://github.com/liux520/TSCN/blob/main/images/realsr-5.png" style="zoom:100%;" />
 
 <hr />
 
 ## :sparkles: Visual Analysis
-<details>
-	<summary><strong>LAM visualization analysis</strong> (click to expand) </summary>
-	<p><img src = "https://github.com/liux520/TSCN/blob/main/images/LAM.png" width=100% height=100%></p>
-	Results of Local Attribution Maps. A more widely distributed red area and higher DI represent a larger range pixels utilization. The heat maps exhibit the area of interest for different SR networks. The red regions are noticed by almost both EDSR, SwinIR, and CARN while the blue areas represent the additional LAM interest areas of the proposed TSCN. (TSCN has a higher diffusion index.)
-</details>
+### LAM visualization analysis
+<img src="https://github.com/liux520/TSCN/blob/main/images/LAM.png" style="zoom:100%;" />
+Results of Local Attribution Maps. A more widely distributed red area and higher DI represent a larger range pixels utilization. The heat maps exhibit the area of interest for different SR networks. The red regions are noticed by almost both EDSR, SwinIR, and CARN while the blue areas represent the additional LAM interest areas of the proposed TSCN. (TSCN has a higher diffusion index.)
 
 <hr />
 
 ## :sparkles: Industrial Application
-<details>
-	<summary><strong>Industrial Application</strong> (click to expand) </summary>
-	<p><img src = "https://github.com/liux520/TSCN/blob/main/images/Industrial.png" width=100% height=100%></p>
-	Industrial application of SISR: PCB images and license plate image super resolution for the electronics and autonomous driving industries.
-	<p><img src = "https://github.com/liux520/TSCN/blob/main/images/seg-3.png" width=100% height=100%></p>
-	Industrial Application of SISR: contributing to autonomous driving scenario parsing.
-	<p><img src = "https://github.com/liux520/TSCN/blob/main/images/app-detect-1-1.png" width=100% height=100%></p>
-	<p><img src = "https://github.com/liux520/TSCN/blob/main/images/app-detect-2-1.png" width=100% height=100%></p>
-	Industrial Application of SISR: contributing to remote sensing industrial detection.
-</details>
+### Industrial Application
+> Industrial application of SISR: PCB images and license plate image super resolution for the electronics and autonomous driving industries.
+<img src="https://github.com/liux520/TSCN/blob/main/images/Industrial.png" style="zoom:100%;" />
+> Industrial Application of SISR: contributing to autonomous driving scenario parsing.
+<img src="https://github.com/liux520/TSCN/blob/main/images/seg-3.png" style="zoom:100%;" />
+> Industrial Application of SISR: contributing to remote sensing industrial detection.
+<img src="https://github.com/liux520/TSCN/blob/main/images/app-detect-1-1.png" style="zoom:100%;" />
+<img src="https://github.com/liux520/TSCN/blob/main/images/app-detect-2-1.png" style="zoom:100%;" />
 
 <hr /> 
 
