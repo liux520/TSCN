@@ -1,5 +1,5 @@
 # **Transformer-Style Convolutional Network for Efficient Natural and Industrial Image Super-Resolution**
-<img src="images\Complexity.png" style="zoom:50%;" />
+<img src="https://github.com/liux520/TSCN/blob/main/images/Complexity.png" style="zoom:50%;" />
 
 <hr />
 
@@ -18,42 +18,42 @@
 ## :sparkles: Synthetic Image Experiment
 <details>
 	<summary><strong>Quantitative Comparison with SOTA</strong> (click to expand) </summary>
-	<p><img src = "images/Quan.png" width=100% height=100%></p>
+	<p><img src = "https://github.com/liux520/TSCN/blob/main/images/Quan.png" width=100% height=100%></p>
 </details>
 <details>
 	<summary><strong>Qualitative Comparison with SOTA</strong> (click to expand) </summary>
-    	<p><img src = "images/Qualitative.png" width=100% height=100%></p>
+    	<p><img src = "https://github.com/liux520/TSCN/blob/main/images/Qualitative.png" width=100% height=100%></p>
 		<div style="display: flex; flex-direction: row;">
     	<div style="flex: 1; padding-right: 5px;">
-      		<img src="images/set5_baby.gif" width="25%" height="25%">
+      		<img src="https://github.com/liux520/TSCN/blob/main/images/set5_baby.gif" width="25%" height="25%">
     	</div>
     	<div style="flex: 1; padding-right: 5px;">
-      		<img src="images/set5_butterfly.gif" width="25%" height="25%">
+      		<img src="https://github.com/liux520/TSCN/blob/main/images/set5_butterfly.gif" width="25%" height="25%">
     	</div>
     	<div style="flex: 1; padding-left: 5px;">
-      		<img src="images/set14_bridge.gif" width="25%" height="25%">
+      		<img src="https://github.com/liux520/TSCN/blob/main/images/set14_bridge.gif" width="25%" height="25%">
     	</div>
   		</div>
     	<div style="display: flex; flex-direction: row;">
     	<div style="flex: 1; padding-right: 5px;">
-      		<img src="images/set14_coastguard.gif" width="25%" height="25%">
+      		<img src="https://github.com/liux520/TSCN/blob/main/images/set14_coastguard.gif" width="25%" height="25%">
     	</div>
     	<div style="flex: 1; padding-right: 5px;">
-      		<img src="images/set14_lenna.gif" width="25%" height="25%">
+      		<img src="https://github.com/liux520/TSCN/blob/main/images/set14_lenna.gif" width="25%" height="25%">
     	</div>
     	<div style="flex: 1; padding-left: 5px;">
-      		<img src="images/set14_man.gif" width="25%" height="25%">
+      		<img src="https://github.com/liux520/TSCN/blob/main/images/set14_man.gif" width="25%" height="25%">
     	</div>
   		</div>
     	<div style="display: flex; flex-direction: row;">
     	<div style="flex: 1; padding-right: 5px;">
-      		<img src="images/set14_monarch.gif" width="25%" height="25%">
+      		<img src="https://github.com/liux520/TSCN/blob/main/images/set14_monarch.gif" width="25%" height="25%">
     	</div>
     	<div style="flex: 1; padding-right: 5px;">
-      		<img src="images/set14_pepper.gif" width="25%" height="25%">
+      		<img src="https://github.com/liux520/TSCN/blob/main/images/set14_pepper.gif" width="25%" height="25%">
     	</div>
         <div style="flex: 1; padding-left: 5px;">
-      		<img src="images/set14_pepper.gif" width="25%" height="25%">
+      		<img src="https://github.com/liux520/TSCN/blob/main/images/set14_pepper.gif" width="25%" height="25%">
     	</div>
   		</div>
 </details>
@@ -63,11 +63,11 @@
 ## :sparkles: Real Image Experiment
 <details>
 	<summary><strong>Quantitative Comparison with SOTA</strong> (click to expand) </summary>
-	<p><img src = "images/Quan.png" width=100% height=100%></p>
+	<p><img src = "https://github.com/liux520/TSCN/blob/main/images/Quan.png" width=100% height=100%></p>
 </details>
 <details>
 	<summary><strong>Qualitative Comparison with SOTA</strong> (click to expand) </summary>
-	<p><img src = "images/Quan.png" width=100% height=100%></p>
+	<p><img src = "https://github.com/liux520/TSCN/blob/main/images/Quan.png" width=100% height=100%></p>
 </details>
 
 <hr />
@@ -75,7 +75,7 @@
 ## :sparkles: Visual Analysis
 <details>
 	<summary><strong>LAM visualization analysis</strong> (click to expand) </summary>
-	<p><img src = "images/LAM.png" width=100% height=100%></p>
+	<p><img src = "https://github.com/liux520/TSCN/blob/main/images/LAM.png" width=100% height=100%></p>
 	Results of Local Attribution Maps. A more widely distributed red area and higher DI represent a larger range pixels utilization. The heat maps exhibit the area of interest for different SR networks. The red regions are noticed by almost both EDSR, SwinIR, and CARN while the blue areas represent the additional LAM interest areas of the proposed TSCN. (TSCN has a higher diffusion index.)
 </details>
 
@@ -84,9 +84,9 @@
 ## :sparkles: Industrial Application
 <details>
 	<summary><strong>Industrial Application</strong> (click to expand) </summary>
-	<p><img src = "images/Industrial.png" width=100% height=100%></p>
+	<p><img src = "https://github.com/liux520/TSCN/blob/main/images/Industrial.png" width=100% height=100%></p>
 	Industrial application of SISR: PCB images and license plate image super resolution for the electronics and autonomous driving industries.
-	<p><img src = "images/seg-3.png" width=100% height=100%></p>
+	<p><img src = "https://github.com/liux520/TSCN/blob/main/images/seg-3.png" width=100% height=100%></p>
 	Industrial Application of SISR: contributing to autonomous driving scenario parsing.
 </details>
 
@@ -94,7 +94,7 @@
 
 ## :computer: Ablation Study on Micro Design
 
-<img src="images\Ab.png" style="zoom:50%;" />
+<img src="https://github.com/liux520/TSCN/blob/main/images/Ab.png" style="zoom:50%;" />
 
 
 <hr />
