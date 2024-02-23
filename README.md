@@ -92,6 +92,9 @@
 	Industrial application of SISR: PCB images and license plate image super resolution for the electronics and autonomous driving industries.
 	<p><img src = "https://github.com/liux520/TSCN/blob/main/images/seg-3.png" width=100% height=100%></p>
 	Industrial Application of SISR: contributing to autonomous driving scenario parsing.
+	<p><img src = "https://github.com/liux520/TSCN/blob/main/images/app-detect-1-1.png" width=100% height=100%></p>
+	<p><img src = "https://github.com/liux520/TSCN/blob/main/images/app-detect-2-1.png" width=100% height=100%></p>
+	Industrial Application of SISR: contributing to remote sensing industrial detection.
 </details>
 
 <hr /> 
