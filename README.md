@@ -63,11 +63,15 @@
 ## :sparkles: Real Image Experiment
 <details>
 	<summary><strong>Quantitative Comparison with SOTA</strong> (click to expand) </summary>
-	<p><img src = "https://github.com/liux520/TSCN/blob/main/images/Quan.png" width=100% height=100%></p>
+	<p><img src = "https://github.com/liux520/TSCN/blob/main/images/realquan.png" width=100% height=100%></p>
 </details>
 <details>
 	<summary><strong>Qualitative Comparison with SOTA</strong> (click to expand) </summary>
-	<p><img src = "https://github.com/liux520/TSCN/blob/main/images/Quan.png" width=100% height=100%></p>
+	<p><img src = "https://github.com/liux520/TSCN/blob/main/images/realsr-1.png" width=100% height=100%></p>
+	<p><img src = "https://github.com/liux520/TSCN/blob/main/images/realsr-2.png" width=100% height=100%></p>
+	<p><img src = "https://github.com/liux520/TSCN/blob/main/images/realsr-3.png" width=100% height=100%></p>
+	<p><img src = "https://github.com/liux520/TSCN/blob/main/images/realsr-4.png" width=100% height=100%></p>
+	<p><img src = "https://github.com/liux520/TSCN/blob/main/images/realsr-5.png" width=100% height=100%></p>
 </details>
 
 <hr />
