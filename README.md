@@ -33,10 +33,10 @@
 <hr />
 
 ## :sparkles: Real Image Experiment
-### Quantitative Comparison with SOTA
+> ### Quantitative Comparison with SOTA
 <img src="https://github.com/liux520/TSCN/blob/main/images/realquan.png" style="zoom:50%;" />
 
-### Qualitative Comparison with SOTA
+> ### Qualitative Comparison with SOTA
 <img src="https://github.com/liux520/TSCN/blob/main/images/realsr-1.png" style="zoom:100%;" />
 <img src="https://github.com/liux520/TSCN/blob/main/images/realsr-2.png" style="zoom:100%;" />
 <img src="https://github.com/liux520/TSCN/blob/main/images/realsr-3.png" style="zoom:100%;" />
@@ -46,20 +46,20 @@
 <hr />
 
 ## :sparkles: Visual Analysis
-### LAM visualization analysis
+> ### LAM visualization analysis
 <img src="https://github.com/liux520/TSCN/blob/main/images/LAM.png" style="zoom:100%;" />
 Results of Local Attribution Maps. A more widely distributed red area and higher DI represent a larger range pixels utilization. The heat maps exhibit the area of interest for different SR networks. The red regions are noticed by almost both EDSR, SwinIR, and CARN while the blue areas represent the additional LAM interest areas of the proposed TSCN. (TSCN has a higher diffusion index.)
 
 <hr />
 
 ## :sparkles: Industrial Application
-> Industrial application of SISR: PCB images and license plate image super resolution for the electronics and autonomous driving industries.
+> ### Industrial application of SISR: PCB images and license plate image super resolution for the electronics and autonomous driving industries.
 <img src="https://github.com/liux520/TSCN/blob/main/images/Industrial.png" style="zoom:100%;" />
 
-> Industrial Application of SISR: contributing to autonomous driving scenario parsing.
+> ### Industrial Application of SISR: contributing to autonomous driving scenario parsing.
 <img src="https://github.com/liux520/TSCN/blob/main/images/seg-3.png" style="zoom:100%;" />
 
-> Industrial Application of SISR: contributing to remote sensing industrial detection.
+> ### Industrial Application of SISR: contributing to remote sensing industrial detection.
 <img src="https://github.com/liux520/TSCN/blob/main/images/app-detect-1-1.png" style="zoom:100%;" />
 <img src="https://github.com/liux520/TSCN/blob/main/images/app-detect-2-1.png" style="zoom:100%;" />
 
