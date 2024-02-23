@@ -1,5 +1,5 @@
 # **Transformer-Style Convolutional Network for Efficient Natural and Industrial Image Super-Resolution**
-<img src="https://github.com/liux520/TSCN/blob/main/images/Complexity.png" style="zoom:50%;" />
+<img src="images/Complexity.png" style="zoom:50%;" />
 
 <hr />
 
@@ -17,74 +17,74 @@
 
 ## :sparkles: Synthetic Image Experiment
 > ### Quantitative Comparison with SOTA
-<img src="https://github.com/liux520/TSCN/blob/main/images/Quan.png" style="zoom:50%;" />
+<img src="images/Quan.png" style="zoom:50%;" />
 
 > ### Qualitative Comparison with SOTA
-<img src="https://github.com/liux520/TSCN/blob/main/images/Qualitative.png" style="zoom:50%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/u100-044.png" style="zoom:100%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/u100-034.png" style="zoom:100%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/u100-027.png" style="zoom:100%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/u100-024.png" style="zoom:100%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/u100-008.png" style="zoom:100%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/u100-004.png" style="zoom:100%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/u100-084.png" style="zoom:100%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/u100-046.png" style="zoom:100%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/set14-ppt3.png" style="zoom:100%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/set14-baboon.png" style="zoom:100%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/set14-comic.png" style="zoom:100%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/set14-flowers.png" style="zoom:100%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/set14-foreman.png" style="zoom:100%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/set14-zebra.png" style="zoom:100%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/set5-bird.png" style="zoom:100%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/set5-bead.png" style="zoom:100%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/set5-woman.png" style="zoom:100%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/set5_baby.gif" style="zoom:50%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/set5_butterfly.gif" style="zoom:50%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/set14_bridge.gif" style="zoom:50%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/set14_coastguard.gif" style="zoom:50%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/set14_lenna.gif" style="zoom:50%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/set14_man.gif" style="zoom:50%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/set14_monarch.gif" style="zoom:50%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/set14_pepper.gif" style="zoom:50%;" />
+<img src="images/Qualitative.png" style="zoom:50%;" />
+<img src="images/u100-044.png" style="zoom:100%;" />
+<img src="images/u100-034.png" style="zoom:100%;" />
+<img src="images/u100-027.png" style="zoom:100%;" />
+<img src="images/u100-024.png" style="zoom:100%;" />
+<img src="images/u100-008.png" style="zoom:100%;" />
+<img src="images/u100-004.png" style="zoom:100%;" />
+<img src="images/u100-084.png" style="zoom:100%;" />
+<img src="images/u100-046.png" style="zoom:100%;" />
+<img src="images/set14-ppt3.png" style="zoom:100%;" />
+<img src="images/set14-baboon.png" style="zoom:100%;" />
+<img src="images/set14-comic.png" style="zoom:100%;" />
+<img src="images/set14-flowers.png" style="zoom:100%;" />
+<img src="images/set14-foreman.png" style="zoom:100%;" />
+<img src="images/set14-zebra.png" style="zoom:100%;" />
+<img src="images/set5-bird.png" style="zoom:100%;" />
+<img src="images/set5-bead.png" style="zoom:100%;" />
+<img src="images/set5-woman.png" style="zoom:100%;" />
+<img src="images/set5_baby.gif" style="zoom:50%;" />
+<img src="images/set5_butterfly.gif" style="zoom:50%;" />
+<img src="images/set14_bridge.gif" style="zoom:50%;" />
+<img src="images/set14_coastguard.gif" style="zoom:50%;" />
+<img src="images/set14_lenna.gif" style="zoom:50%;" />
+<img src="images/set14_man.gif" style="zoom:50%;" />
+<img src="images/set14_monarch.gif" style="zoom:50%;" />
+<img src="images/set14_pepper.gif" style="zoom:50%;" />
 
 <hr />
 
 ## :sparkles: Real Image Experiment
 > ### Quantitative Comparison with SOTA
-<img src="https://github.com/liux520/TSCN/blob/main/images/realquan.png" style="zoom:50%;" />
+<img src="images/realquan.png" style="zoom:50%;" />
 
 > ### Qualitative Comparison with SOTA
-<img src="https://github.com/liux520/TSCN/blob/main/images/realsr-1.png" style="zoom:100%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/realsr-2.png" style="zoom:100%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/realsr-3.png" style="zoom:100%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/realsr-4.png" style="zoom:100%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/realsr-5.png" style="zoom:100%;" />
+<img src="images/realsr-1.png" style="zoom:100%;" />
+<img src="images/realsr-2.png" style="zoom:100%;" />
+<img src="images/realsr-3.png" style="zoom:100%;" />
+<img src="images/realsr-4.png" style="zoom:100%;" />
+<img src="images/realsr-5.png" style="zoom:100%;" />
 
 <hr />
 
 ## :sparkles: Visual Analysis
 > ### LAM visualization analysis
-<img src="https://github.com/liux520/TSCN/blob/main/images/LAM.png" style="zoom:100%;" />
+<img src="images/LAM.png" style="zoom:100%;" />
 Results of Local Attribution Maps. A more widely distributed red area and higher DI represent a larger range pixels utilization. The heat maps exhibit the area of interest for different SR networks. The red regions are noticed by almost both EDSR, SwinIR, and CARN while the blue areas represent the additional LAM interest areas of the proposed TSCN. (TSCN has a higher diffusion index.)
 
 <hr />
 
 ## :sparkles: Industrial Application
 > ### Industrial application of SISR: PCB images and license plate image super resolution for the electronics and autonomous driving industries.
-<img src="https://github.com/liux520/TSCN/blob/main/images/Industrial.png" style="zoom:100%;" />
+<img src="images/Industrial.png" style="zoom:100%;" />
 
 > ### Industrial Application of SISR: contributing to autonomous driving scenario parsing.
-<img src="https://github.com/liux520/TSCN/blob/main/images/app-seg.png" style="zoom:100%;" />
+<img src="images/app-seg.png" style="zoom:100%;" />
 
 > ### Industrial Application of SISR: contributing to remote sensing industrial detection.
-<img src="https://github.com/liux520/TSCN/blob/main/images/app-detect-1-1.png" style="zoom:100%;" />
-<img src="https://github.com/liux520/TSCN/blob/main/images/app-detect-2-1.png" style="zoom:100%;" />
+<img src="images/app-detect-1-1.png" style="zoom:100%;" />
+<img src="images/app-detect-2-1.png" style="zoom:100%;" />
 
 <hr /> 
 
 ## :computer: Ablation Study on Micro Design
 
-<img src="https://github.com/liux520/TSCN/blob/main/images/Ab.png" style="zoom:50%;" />
+<img src="images/Ab.png" style="zoom:50%;" />
 
 
 <hr />
