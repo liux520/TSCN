@@ -21,6 +21,23 @@
 
 > ### Qualitative Comparison with SOTA
 <img src="https://github.com/liux520/TSCN/blob/main/images/Qualitative.png" style="zoom:50%;" />
+<img src="https://github.com/liux520/TSCN/blob/main/images/u100-044.png" style="zoom:100%;" />
+<img src="https://github.com/liux520/TSCN/blob/main/images/u100-034.png" style="zoom:100%;" />
+<img src="https://github.com/liux520/TSCN/blob/main/images/u100-027.png" style="zoom:100%;" />
+<img src="https://github.com/liux520/TSCN/blob/main/images/u100-024.png" style="zoom:100%;" />
+<img src="https://github.com/liux520/TSCN/blob/main/images/u100-008.png" style="zoom:100%;" />
+<img src="https://github.com/liux520/TSCN/blob/main/images/u100-004.png" style="zoom:100%;" />
+<img src="https://github.com/liux520/TSCN/blob/main/images/u100-084.png" style="zoom:100%;" />
+<img src="https://github.com/liux520/TSCN/blob/main/images/u100-046.png" style="zoom:100%;" />
+<img src="https://github.com/liux520/TSCN/blob/main/images/set14-ppt3.png" style="zoom:100%;" />
+<img src="https://github.com/liux520/TSCN/blob/main/images/set14-baboon.png" style="zoom:100%;" />
+<img src="https://github.com/liux520/TSCN/blob/main/images/set14-comic.png" style="zoom:100%;" />
+<img src="https://github.com/liux520/TSCN/blob/main/images/set14-flowers.png" style="zoom:100%;" />
+<img src="https://github.com/liux520/TSCN/blob/main/images/set14-foreman.png" style="zoom:100%;" />
+<img src="https://github.com/liux520/TSCN/blob/main/images/set14-zebra.png" style="zoom:100%;" />
+<img src="https://github.com/liux520/TSCN/blob/main/images/set5-bird.png" style="zoom:100%;" />
+<img src="https://github.com/liux520/TSCN/blob/main/images/set5-bead.png" style="zoom:100%;" />
+<img src="https://github.com/liux520/TSCN/blob/main/images/set5-woman.png" style="zoom:100%;" />
 <img src="https://github.com/liux520/TSCN/blob/main/images/set5_baby.gif" style="zoom:50%;" />
 <img src="https://github.com/liux520/TSCN/blob/main/images/set5_butterfly.gif" style="zoom:50%;" />
 <img src="https://github.com/liux520/TSCN/blob/main/images/set14_bridge.gif" style="zoom:50%;" />
@@ -57,7 +74,7 @@ Results of Local Attribution Maps. A more widely distributed red area and higher
 <img src="https://github.com/liux520/TSCN/blob/main/images/Industrial.png" style="zoom:100%;" />
 
 > ### Industrial Application of SISR: contributing to autonomous driving scenario parsing.
-<img src="https://github.com/liux520/TSCN/blob/main/images/seg-3.png" style="zoom:100%;" />
+<img src="https://github.com/liux520/TSCN/blob/main/images/app-seg.png" style="zoom:100%;" />
 
 > ### Industrial Application of SISR: contributing to remote sensing industrial detection.
 <img src="https://github.com/liux520/TSCN/blob/main/images/app-detect-1-1.png" style="zoom:100%;" />
