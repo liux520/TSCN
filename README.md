@@ -20,7 +20,7 @@
 <img src="images/Quan.png" style="zoom:50%;" />
 
 > ### Qualitative Comparison with SOTA
-<img src="images/Qualitative.png" style="zoom:50%;" />
+<img src="images/Qualitative.png" style="zoom:100%;" />
 <img src="images/u100-044.png" style="zoom:100%;" />
 <img src="images/u100-034.png" style="zoom:100%;" />
 <img src="images/u100-027.png" style="zoom:100%;" />
@@ -38,14 +38,14 @@
 <img src="images/set5-bird.png" style="zoom:100%;" />
 <img src="images/set5-bead.png" style="zoom:100%;" />
 <img src="images/set5-woman.png" style="zoom:100%;" />
-<img src="images/set5_baby.gif" style="zoom:50%;" />
-<img src="images/set5_butterfly.gif" style="zoom:50%;" />
-<img src="images/set14_bridge.gif" style="zoom:50%;" />
-<img src="images/set14_coastguard.gif" style="zoom:50%;" />
-<img src="images/set14_lenna.gif" style="zoom:50%;" />
-<img src="images/set14_man.gif" style="zoom:50%;" />
-<img src="images/set14_monarch.gif" style="zoom:50%;" />
-<img src="images/set14_pepper.gif" style="zoom:50%;" />
+<img src="images/set5_baby.gif" style="zoom:100%;" />
+<img src="images/set5_butterfly.gif" style="zoom:100%;" />
+<img src="images/set14_bridge.gif" style="zoom:100%;" />
+<img src="images/set14_coastguard.gif" style="zoom:100%;" />
+<img src="images/set14_lenna.gif" style="zoom:100%;" />
+<img src="images/set14_man.gif" style="zoom:100%;" />
+<img src="images/set14_monarch.gif" style="zoom:100%;" />
+<img src="images/set14_pepper.gif" style="zoom:100%;" />
 
 <hr />
 
