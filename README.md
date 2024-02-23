@@ -74,7 +74,7 @@ Results of Local Attribution Maps. A more widely distributed red area and higher
 <img src="https://github.com/liux520/TSCN/blob/main/images/Industrial.png" style="zoom:100%;" />
 
 > ### Industrial Application of SISR: contributing to autonomous driving scenario parsing.
-<img src="https://github.com/liux520/TSCN/blob/main/images/seg-3.png" style="zoom:100%;" />
+<img src="https://github.com/liux520/TSCN/blob/main/images/app-seg.png" style="zoom:100%;" />
 
 > ### Industrial Application of SISR: contributing to remote sensing industrial detection.
 <img src="https://github.com/liux520/TSCN/blob/main/images/app-detect-1-1.png" style="zoom:100%;" />
