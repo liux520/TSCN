@@ -3,11 +3,19 @@
 
 <hr />
 
-## :writing_hand: Changelog and ToDos
-- [ ] Code and the model pre-training weights.
+## 🔥 Changelog and ToDos
+- [x] Code and the model pre-training weights.
 - [x] Method introduction, model performance and results visualization  :fire::fire::fire:.
 
 <hr />
+
+## :writing_hand: How to use
+```python
+python demo/test_on_custom_datset.py
+```
+
+<hr />
+
 
 ## :bulb: Abstract
 > **Abstract:** Single image super-resolution (SISR), as an important task in computer vision, plays an indispensable role in both general and industrial scenarios. Significant advancements in SISR have been achieved by leveraging Transformers-based methods, which offer impressive representation capabilities. However, their high computational complexity restricts their usability in resource-constrained devices. Conversely, convolutional networks (ConvNets) inherently possess efficiency but struggle to capture long-range pixel relationships due to their spatial locality. Consequently, there exists a complementary relationship between the representation ability of Transformers and the efficiency of ConvNets, making both crucial for practical applications. Motivated by this observation, we propose a novel Transformer-style convolutional network (TSCN). 
