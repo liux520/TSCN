@@ -51,8 +51,8 @@ wandb/
 datasets/
 
 # Weights
-weights/*.pth
-weights/*.pt
+#weights/*.pth
+#weights/*.pt
 
 # OS
 Thumbs.db
